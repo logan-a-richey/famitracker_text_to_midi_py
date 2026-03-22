@@ -7,3 +7,4 @@ MidiExports
 *.exe
 *.o
 *.log
+output.json
